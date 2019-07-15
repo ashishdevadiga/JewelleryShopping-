@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "TRARITHI NIMAH GOLD NECKLACE",
+    "title": "Style-No:KCNN023 in Yellow Gold 22K 82.19Gms and 21.1 Ct Gemstone",
+    "price":"Rs. 403,909",
+    "image": "https://www.candere.com/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/n/m/nmne3525-a.jpg"
+  },
+  {
+    "id": 2,
+    "name": "MAANINI MUDHRA GOLD NECKLACE",
+    "title": "Style No: KCMN050 in Yellow Gold 22K 60.9 Gm",
+    "price": "Rs. 292,533",
+    "image": "https://www.candere.com/media/tagalys/product_thumbnailsm/d/mdne3351-a.jpg"
+  },
+  {
+    "id": 3,
+    "name": "ARLAIS VEDHA GOLD JHUMKA",
+    "title": "Style-No:KCVE002 in Yellow Gold 22K 20.64 Gms",
+    "price": "Rs. 1,47,695",
+    "image": "https://www.candere.com/media/tagalys/product_thumbnailsv/d/vder3808-c.jpg",
+    "cost": 147695
+  },
+  {
+    "id": 4,
+    "name": "NURAY SANKALP GOLD NECKLACE",
+    "title": "Style No: KCSN016 in Yellow Gold  22K  29.35 Gms",
+    "price": "Rs. 139,968",
+    "image": "https://www.candere.com/media/tagalys/product_thumbnailss/k/skne3416-b.jpg"
+  },
+  {
+    "id": 5,
+    "name": "YELLOW SPRING GOLD BANGLE",
+    "title": "Style No: VRGB041 in Yellow Gold  22K  7.38 Gms",
+    "price": "Rs. 35,194",
+    "image": "https://www.candere.com/media/tagalys/product_thumbnailsv/r/vrgb041_2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "YELLOW GOLD FINGER RING",
+    "title": "Tanishq 22KT Yellow Gold Finger Ring",
+    "price": "Rs. 17,244",
+    "image": "https://staticimg.titan.co.in/Tanishq/Catalog/511418FSEAA00_1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "TASHA NIMAH GOLD NECKLACE",
+    "title": "Style No: KCNN028",
+    "price": "Rs. 198,624",
+    "image": "https://www.candere.com/media/tagalys/product_thumbnailsn/m/nmne3530-a_1.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "TRARITHI NIMAH GOLD NECKLACE",
+    "title": "JANYA NIMAH GOLD NECKLACE",
+    "price":"Rs. 303,085",
+    "image": "https://www.candere.com/media/tagalys/product_thumbnailsn/m/nmne3533-a.jpeg"
+  }
+]
